@@ -1,0 +1,2205 @@
+canonical_identifier: bkk:krp/KR3ee036/v1
+canonical_location: https://kanripo.org/bkk/KR3ee036/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 經脈圖考
+  identifiers:
+    krp: KR3ee036
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee036.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee036_000.yaml, hash: 'sha256:70ccb02dfe23f842ba716679230be9a8e05c0f34bc2724088ca4bd5be6d3108e'}
+  - {seq: 1, filename: KR3ee036_001.yaml, hash: 'sha256:a70d2c8a40b940b99e230c39df6b4c76ec6256c05329ccd04a3f920e95f7f2a1'}
+  - {seq: 2, filename: KR3ee036_002.yaml, hash: 'sha256:67fd3da4d6ac8135c497bff8f8e18ada303b1c85547316cb7f19f787e25d2d3d'}
+  - {seq: 3, filename: KR3ee036_003.yaml, hash: 'sha256:2a50173d1f785ecffefbc1be76b2c407fa64ae2cee04a596de63c120347ce6e0'}
+  - {seq: 4, filename: KR3ee036_004.yaml, hash: 'sha256:e4ecc161a14bb50c60ddab7ba36fb54c167622adaba20f9efb40dd00c10af33d'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee036_000.markers.yaml, hash: 'sha256:f68929d2b6e566b8c955fabd22d6a838ce90d383c2fe4204248b59d963fdcc3d'}
+  - {seq: 1, role: markers, filename: assets/KR3ee036_001.markers.yaml, hash: 'sha256:14069ca6cab22b8826397c2af5da4ff511cdfbf481838978b051f67b31e8a4ea'}
+  - {seq: 2, role: markers, filename: assets/KR3ee036_002.markers.yaml, hash: 'sha256:02974651a3d9379e18712ad1fd0d996312b5758427f1382840784b6628629ee7'}
+  - {seq: 3, role: markers, filename: assets/KR3ee036_003.markers.yaml, hash: 'sha256:a943f1f35078e938ae9af8c3a94e5b9f54995ee9f0f4df6a25be006d0c29a293'}
+  - {seq: 4, role: markers, filename: assets/KR3ee036_004.markers.yaml, hash: 'sha256:dfcc9a33b9398f05073a1e992c1c184c04c548ab8461d50713ea7501f273d39a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee036_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 654
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee036_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 504
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4.h1s1
+    span:
+    - body
+    - 0
+    - 10348
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d2
+    span:
+    - body
+    - 2
+    - 662
+  label: 內景賦
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d3
+    span:
+    - body
+    - 662
+    - 725
+  label: 內景圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d4
+    span:
+    - body
+    - 725
+    - 866
+  label: 唇口喉舌腸胃尺寸數
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d5
+    span:
+    - body
+    - 866
+    - 1143
+  label: 考正內景圖說壽田
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d6
+    span:
+    - body
+    - 1143
+    - 1150
+  label: 仰人骨度部位圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d7
+    span:
+    - body
+    - 1150
+    - 1157
+  label: 伏人骨度部位圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d8
+    span:
+    - body
+    - 1157
+    - 2306
+  label: 周身骨部名目
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d9
+    span:
+    - body
+    - 2306
+    - 3401
+  label: 骨度
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4.d9d4
+    span:
+    - body
+    - 2335
+    - 2576
+  label: 頭部
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4.d9d5
+    span:
+    - body
+    - 2576
+    - 2823
+  label: 胸腹部
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4.d9d6
+    span:
+    - body
+    - 2823
+    - 3056
+  label: 背部
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4.d9d7
+    span:
+    - body
+    - 3056
+    - 3149
+  label: 側部
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4.d9d8
+    span:
+    - body
+    - 3149
+    - 3401
+  label: 四肢部
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d10
+    span:
+    - body
+    - 3401
+    - 3626
+  label: 同身寸法說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d11
+    span:
+    - body
+    - 3626
+    - 3688
+  label: 中指同身寸法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d12
+    span:
+    - body
+    - 3688
+    - 3811
+  label: 古今尺寸不同說
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d13
+    span:
+    - body
+    - 3811
+    - 5605
+  label: 骨數
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d14
+    span:
+    - body
+    - 5605
+    - 5902
+  label: 稽檢骨不合金壇骨數說壽田
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d15
+    span:
+    - body
+    - 5902
+    - 6689
+  label: 驗骨數出洗冤錄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d16
+    span:
+    - body
+    - 6689
+    - 8380
+  label: 檢骨格出洗冤錄
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4.d16d2
+    span:
+    - body
+    - 6696
+    - 7990
+  label: 仰面
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4.d16d3
+    span:
+    - body
+    - 7990
+    - 8380
+  label: 合面
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d17
+    span:
+    - body
+    - 8380
+    - 8385
+  label: 仰人經脈圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d18
+    span:
+    - body
+    - 8385
+    - 8390
+  label: 伏人經脈圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d19
+    span:
+    - body
+    - 8390
+    - 8448
+  label: 十二經歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d20
+    span:
+    - body
+    - 8448
+    - 8555
+  label: 十二經納甲歌此歌諸腑配陽諸臟配陰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d21
+    span:
+    - body
+    - 8555
+    - 8591
+  label: 十二經氣血多少歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d22
+    span:
+    - body
+    - 8591
+    - 8667
+  label: 十二經營行次序逆順歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d23
+    span:
+    - body
+    - 8667
+    - 8961
+  label: 經絡次序出十四經發揮
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d24
+    span:
+    - body
+    - 8961
+    - 9158
+  label: 十二經脈起止歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d25
+    span:
+    - body
+    - 9158
+    - 9536
+  label: 周身經絡部位歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d26
+    span:
+    - body
+    - 9536
+    - 9639
+  label: 十二經流注時序歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d27
+    span:
+    - body
+    - 9639
+    - 9834
+  label: 十六絡穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d28
+    span:
+    - body
+    - 9834
+    - 10112
+  label: 宗營衛三氣論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d29
+    span:
+    - body
+    - 10112
+    - 10190
+  label: 標本運氣歌張子和
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d30
+    span:
+    - body
+    - 10190
+    - 10262
+  label: 十一募穴歌募結募也為經氣之所聚
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d31
+    span:
+    - body
+    - 10262
+    - 10301
+  label: 八會穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d32
+    span:
+    - body
+    - 10301
+    - 10307
+  label: 前面頸穴總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d33
+    span:
+    - body
+    - 10307
+    - 10311
+  label: 胸腹總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d34
+    span:
+    - body
+    - 10311
+    - 10317
+  label: 後頭頂穴總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d35
+    span:
+    - body
+    - 10317
+    - 10321
+  label: 背部總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d36
+    span:
+    - body
+    - 10321
+    - 10327
+  label: 側面肩項總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d37
+    span:
+    - body
+    - 10327
+    - 10332
+  label: 側脅肋總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d38
+    span:
+    - body
+    - 10332
+    - 10336
+  label: 陰手總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d39
+    span:
+    - body
+    - 10336
+    - 10340
+  label: 陽手總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d40
+    span:
+    - body
+    - 10340
+    - 10344
+  label: 陰足總圖
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ee036_jc_001-d4d41
+    span:
+    - body
+    - 10344
+    - 10348
+  label: 陽足總圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13613
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d2
+    span:
+    - body
+    - 2
+    - 7
+  label: 肺經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d3
+    span:
+    - body
+    - 7
+    - 107
+  label: 肺經循行經文十二經脈俱出靈樞經脈篇
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d4
+    span:
+    - body
+    - 107
+    - 124
+  label: 肺經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d5
+    span:
+    - body
+    - 124
+    - 129
+  label: 肺經臟象圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d6
+    span:
+    - body
+    - 129
+    - 281
+  label: 肺臟經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d7
+    span:
+    - body
+    - 281
+    - 904
+  label: 肺經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d8
+    span:
+    - body
+    - 904
+    - 950
+  label: 肺經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d9
+    span:
+    - body
+    - 950
+    - 1737
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d10
+    span:
+    - body
+    - 1737
+    - 2204
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d11
+    span:
+    - body
+    - 2204
+    - 2210
+  label: 大腸經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d12
+    span:
+    - body
+    - 2210
+    - 2320
+  label: 大腸經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d13
+    span:
+    - body
+    - 2320
+    - 2335
+  label: 大腸經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d14
+    span:
+    - body
+    - 2335
+    - 2341
+  label: 大腸經腑象圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d15
+    span:
+    - body
+    - 2341
+    - 2500
+  label: 大腸經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d16
+    span:
+    - body
+    - 2500
+    - 2944
+  label: 大腸經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d17
+    span:
+    - body
+    - 2944
+    - 3005
+  label: 大腸經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d18
+    span:
+    - body
+    - 3005
+    - 3739
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d19
+    span:
+    - body
+    - 3739
+    - 4287
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d20
+    span:
+    - body
+    - 4287
+    - 4292
+  label: 胃經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d21
+    span:
+    - body
+    - 4292
+    - 4469
+  label: 胃經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d22
+    span:
+    - body
+    - 4469
+    - 4483
+  label: 胃經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d23
+    span:
+    - body
+    - 4483
+    - 4488
+  label: 胃經腑象圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d24
+    span:
+    - body
+    - 4488
+    - 4603
+  label: 胃腑經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d25
+    span:
+    - body
+    - 4603
+    - 5390
+  label: 胃經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d26
+    span:
+    - body
+    - 5390
+    - 5520
+  label: 胃經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d27
+    span:
+    - body
+    - 5520
+    - 7497
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d28
+    span:
+    - body
+    - 7497
+    - 8249
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d29
+    span:
+    - body
+    - 8249
+    - 8254
+  label: 脾經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d30
+    span:
+    - body
+    - 8254
+    - 8335
+  label: 脾經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d31
+    span:
+    - body
+    - 8335
+    - 8352
+  label: 脾經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d32
+    span:
+    - body
+    - 8352
+    - 8357
+  label: 脾經臟象圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d33
+    span:
+    - body
+    - 8357
+    - 8475
+  label: 脾臟經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d34
+    span:
+    - body
+    - 8475
+    - 8923
+  label: 脾經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d35
+    span:
+    - body
+    - 8923
+    - 8997
+  label: 脾經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d36
+    span:
+    - body
+    - 8997
+    - 9834
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d37
+    span:
+    - body
+    - 9834
+    - 10341
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d38
+    span:
+    - body
+    - 10341
+    - 10346
+  label: 心經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d39
+    span:
+    - body
+    - 10346
+    - 10438
+  label: 心經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d40
+    span:
+    - body
+    - 10438
+    - 10454
+  label: 心經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d41
+    span:
+    - body
+    - 10454
+    - 10465
+  label: 心經臟象圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d42
+    span:
+    - body
+    - 10465
+    - 10624
+  label: 心臟經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d43
+    span:
+    - body
+    - 10624
+    - 10944
+  label: 心經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d44
+    span:
+    - body
+    - 10944
+    - 10976
+  label: 心經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d45
+    span:
+    - body
+    - 10976
+    - 11283
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d46
+    span:
+    - body
+    - 11283
+    - 11604
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d47
+    span:
+    - body
+    - 11604
+    - 11610
+  label: 小腸經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d48
+    span:
+    - body
+    - 11610
+    - 11718
+  label: 小腸經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d49
+    span:
+    - body
+    - 11718
+    - 11734
+  label: 小腸經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d50
+    span:
+    - body
+    - 11734
+    - 11740
+  label: 小腸經腑象圖
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d51
+    span:
+    - body
+    - 11740
+    - 11877
+  label: 小腸經文
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d52
+    span:
+    - body
+    - 11877
+    - 12301
+  label: 小腸經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d53
+    span:
+    - body
+    - 12301
+    - 12376
+  label: 小腸經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d54
+    span:
+    - body
+    - 12376
+    - 13034
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ee036_jc_002-d5d55
+    span:
+    - body
+    - 13034
+    - 13613
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 17540
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d2
+    span:
+    - body
+    - 2
+    - 8
+  label: 膀胱經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d3
+    span:
+    - body
+    - 8
+    - 129
+  label: 膀胱經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d4
+    span:
+    - body
+    - 129
+    - 147
+  label: 膀胱經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d5
+    span:
+    - body
+    - 147
+    - 153
+  label: 膀胱經腑象圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d6
+    span:
+    - body
+    - 153
+    - 315
+  label: 膀胱經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d7
+    span:
+    - body
+    - 315
+    - 943
+  label: 膀胱經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d8
+    span:
+    - body
+    - 943
+    - 1130
+  label: 膀胱經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d9
+    span:
+    - body
+    - 1130
+    - 4503
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d10
+    span:
+    - body
+    - 4503
+    - 5355
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d11
+    span:
+    - body
+    - 5355
+    - 5360
+  label: 腎經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d12
+    span:
+    - body
+    - 5360
+    - 5446
+  label: 腎經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d13
+    span:
+    - body
+    - 5446
+    - 5463
+  label: 腎經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d14
+    span:
+    - body
+    - 5463
+    - 5468
+  label: 腎經臟象圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d15
+    span:
+    - body
+    - 5468
+    - 5622
+  label: 腎臟經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d16
+    span:
+    - body
+    - 5622
+    - 6379
+  label: 腎經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d17
+    span:
+    - body
+    - 6379
+    - 6474
+  label: 腎經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d18
+    span:
+    - body
+    - 6474
+    - 7494
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d19
+    span:
+    - body
+    - 7494
+    - 8016
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d20
+    span:
+    - body
+    - 8016
+    - 8023
+  label: 心包絡經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d21
+    span:
+    - body
+    - 8023
+    - 8114
+  label: 心包絡經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d22
+    span:
+    - body
+    - 8114
+    - 8132
+  label: 心包絡經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d23
+    span:
+    - body
+    - 8132
+    - 8139
+  label: 心包絡經臟象圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d24
+    span:
+    - body
+    - 8139
+    - 8299
+  label: 心包絡經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d25
+    span:
+    - body
+    - 8299
+    - 8621
+  label: 心包絡經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d26
+    span:
+    - body
+    - 8621
+    - 8655
+  label: 心包絡經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d27
+    span:
+    - body
+    - 8655
+    - 9103
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d28
+    span:
+    - body
+    - 9103
+    - 9500
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d29
+    span:
+    - body
+    - 9500
+    - 9506
+  label: 三焦經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d30
+    span:
+    - body
+    - 9506
+    - 9628
+  label: 三焦經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d31
+    span:
+    - body
+    - 9628
+    - 9643
+  label: 三焦經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d32
+    span:
+    - body
+    - 9643
+    - 9649
+  label: 三焦經腑象圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d33
+    span:
+    - body
+    - 9649
+    - 9737
+  label: 三焦經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d34
+    span:
+    - body
+    - 9737
+    - 10181
+  label: 三焦經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d35
+    span:
+    - body
+    - 10181
+    - 10256
+  label: 三焦經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d36
+    span:
+    - body
+    - 10256
+    - 11171
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d37
+    span:
+    - body
+    - 11171
+    - 11626
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d38
+    span:
+    - body
+    - 11626
+    - 11642
+  label: 膽經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d39
+    span:
+    - body
+    - 11642
+    - 11840
+  label: 膽經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d40
+    span:
+    - body
+    - 11840
+    - 11844
+  label: 膽經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d41
+    span:
+    - body
+    - 11844
+    - 11865
+  label: 膽經腑象圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d42
+    span:
+    - body
+    - 11865
+    - 11944
+  label: 膽腑經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d43
+    span:
+    - body
+    - 11944
+    - 12822
+  label: 膽經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d44
+    span:
+    - body
+    - 12822
+    - 12938
+  label: 膽經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d45
+    span:
+    - body
+    - 12938
+    - 14612
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d46
+    span:
+    - body
+    - 14612
+    - 15253
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d47
+    span:
+    - body
+    - 15253
+    - 15258
+  label: 肝經循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d48
+    span:
+    - body
+    - 15258
+    - 15372
+  label: 肝經循行經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d49
+    span:
+    - body
+    - 15372
+    - 15389
+  label: 肝經穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d50
+    span:
+    - body
+    - 15389
+    - 15394
+  label: 肝經臟象圖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d51
+    span:
+    - body
+    - 15394
+    - 15507
+  label: 肝臟經文
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d52
+    span:
+    - body
+    - 15507
+    - 16118
+  label: 肝經循行主病總歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d53
+    span:
+    - body
+    - 16118
+    - 16164
+  label: 肝經穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d54
+    span:
+    - body
+    - 16164
+    - 17180
+  label: 取穴分寸
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ee036_jc_003-d6d55
+    span:
+    - body
+    - 17180
+    - 17540
+  label: 正筋別本標
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.h1s1
+    span:
+    - body
+    - 0
+    - 17372
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d2
+    span:
+    - body
+    - 2
+    - 278
+  label: 奇經八脈總說李時珍
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d3
+    span:
+    - body
+    - 278
+    - 691
+  label: 奇經八脈總歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d4
+    span:
+    - body
+    - 691
+    - 696
+  label: 任脈循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d5
+    span:
+    - body
+    - 696
+    - 1001
+  label: 任脈循行主病歌經文附註內
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d6
+    span:
+    - body
+    - 1001
+    - 1085
+  label: 任脈穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d7
+    span:
+    - body
+    - 1085
+    - 1159
+  label: 任脈穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d8
+    span:
+    - body
+    - 1159
+    - 2874
+  label: 取穴分寸並別
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d9
+    span:
+    - body
+    - 2874
+    - 2879
+  label: 督脈循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d10
+    span:
+    - body
+    - 2879
+    - 3533
+  label: 督脈循行主病歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d11
+    span:
+    - body
+    - 3533
+    - 3543
+  label: 督脈穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d12
+    span:
+    - body
+    - 3543
+    - 3759
+  label: 督脈穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d13
+    span:
+    - body
+    - 3759
+    - 5564
+  label: 取穴分寸並別
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d14
+    span:
+    - body
+    - 5564
+    - 5569
+  label: 衝脈循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d15
+    span:
+    - body
+    - 5569
+    - 6067
+  label: 衝脈循行主病歌經文附註內
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d16
+    span:
+    - body
+    - 6067
+    - 6193
+  label: 衝脈總釋
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d17
+    span:
+    - body
+    - 6193
+    - 6207
+  label: 衝脈穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d18
+    span:
+    - body
+    - 6207
+    - 6239
+  label: 衝脈穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d19
+    span:
+    - body
+    - 6239
+    - 6245
+  label: 陽蹺脈循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d20
+    span:
+    - body
+    - 6245
+    - 6414
+  label: 陽蹺脈循行主病歌經文附註內
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d21
+    span:
+    - body
+    - 6414
+    - 6419
+  label: 陽蹺脈穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d22
+    span:
+    - body
+    - 6419
+    - 6452
+  label: 陽蹺脈穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d23
+    span:
+    - body
+    - 6452
+    - 6750
+  label: 陽蹺脈分寸歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d24
+    span:
+    - body
+    - 6750
+    - 6756
+  label: 陰蹺脈循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d25
+    span:
+    - body
+    - 6756
+    - 6958
+  label: 陰蹺脈循行主病歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d26
+    span:
+    - body
+    - 6958
+    - 6963
+  label: 陰蹺脈穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d27
+    span:
+    - body
+    - 6963
+    - 6996
+  label: 陰蹺脈穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d28
+    span:
+    - body
+    - 6996
+    - 7129
+  label: 陰蹺脈分寸歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d29
+    span:
+    - body
+    - 7129
+    - 7491
+  label: 考正陰蹺穴道壽田
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d30
+    span:
+    - body
+    - 7491
+    - 7607
+  label: 蹺脈數陰陽歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d31
+    span:
+    - body
+    - 7607
+    - 7613
+  label: 陽維脈循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d32
+    span:
+    - body
+    - 7613
+    - 7783
+  label: 陽維脈循行主病歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d33
+    span:
+    - body
+    - 7783
+    - 7788
+  label: 陽維脈穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d34
+    span:
+    - body
+    - 7788
+    - 7849
+  label: 陽維脈穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d35
+    span:
+    - body
+    - 7849
+    - 7981
+  label: 陽維脈分寸歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d36
+    span:
+    - body
+    - 7981
+    - 8366
+  label: 考正陽維穴道壽田
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d37
+    span:
+    - body
+    - 8366
+    - 8372
+  label: 陰維脈循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d38
+    span:
+    - body
+    - 8372
+    - 8966
+  label: 陰維脈循行主病歌經文附註內
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d39
+    span:
+    - body
+    - 8966
+    - 8971
+  label: 陰維脈穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d40
+    span:
+    - body
+    - 8971
+    - 9004
+  label: 陰維脈穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d41
+    span:
+    - body
+    - 9004
+    - 9217
+  label: 陰維脈分寸歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d42
+    span:
+    - body
+    - 9217
+    - 9222
+  label: 帶脈循行圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d43
+    span:
+    - body
+    - 9222
+    - 9526
+  label: 帶脈循行主病歌經文附註內
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d44
+    span:
+    - body
+    - 9526
+    - 9691
+  label: 考正帶脈穴道壽田
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d45
+    span:
+    - body
+    - 9691
+    - 9695
+  label: 帶脈穴圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d46
+    span:
+    - body
+    - 9695
+    - 9727
+  label: 帶脈穴歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d47
+    span:
+    - body
+    - 9727
+    - 9805
+  label: 帶脈分寸歌
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d48
+    span:
+    - body
+    - 9805
+    - 11493
+  label: 諸部經絡循行會通發明
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.d48d2
+    span:
+    - body
+    - 9815
+    - 11493
+  label: 頭面部
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7d49
+    span:
+    - body
+    - 11493
+    - 17372
+  label: 喉口唇舌部
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.d49d20
+    span:
+    - body
+    - 12454
+    - 13171
+  label: 頸肩部
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.d49d21
+    span:
+    - body
+    - 13171
+    - 13481
+  label: 脅肋部
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.d49d22
+    span:
+    - body
+    - 13481
+    - 15933
+  label: 四肢部
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.d49d23
+    span:
+    - body
+    - 15933
+    - 16122
+  label: 皮毛肌肉部
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.d49d24
+    span:
+    - body
+    - 16122
+    - 16326
+  label: 筋骨血脈部
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.d49d25
+    span:
+    - body
+    - 16326
+    - 17023
+  label: 臟腑部
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ee036_jc_004-d7.d49d26
+    span:
+    - body
+    - 17023
+    - 17372
+  label: 前後陰部
+  type: section
+  level: 3
+hash: sha256:253d3618d80338b7ac32fb6d94217435c724eaa4dfb0328b07b0856a1015daa5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
